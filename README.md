@@ -6,11 +6,3 @@ Linear layers were trained on top of pre-trained contrastive predictive coding (
 
 ## Data Collection:
 The Data contains two hours recording sets that was collected using LIG-Aikuma application in Arabic Language. The Data has been split into train (wav files)- 40 mins, test- one hour and validation set in 20mins.
-
-
-
-
-	 
-
-
-
