@@ -6,10 +6,11 @@ Linear layers were trained on top of pre-trained contrastive predictive coding (
 
 ## Data Collection:
 The Data contains two hours recording sets that was collected using LIG-Aikuma application in Arabic Language. The Data has been split into train, test and validation set as followed:
-train : training set wav files- 40 mins
-val : validation set- 20 mins
-test: test set- one hour
-
+\begin{itemize}
+	\item train : training set wav files- 40 mins
+	\item val : validation set- 20 mins
+	\item test: test set- one hour
+\end{itemize}
 
 
 
